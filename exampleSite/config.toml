@@ -12,6 +12,9 @@ theme = "hugo-icarus-theme"
 # Comment the themesDir option if you use this theme in production
 themesDir = "../.."
 
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug"

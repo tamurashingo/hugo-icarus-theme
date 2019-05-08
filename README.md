@@ -1,3 +1,6 @@
+`highlight.js` の代わりに `Chroma` を使います
+
+
 # Icarus
 
 Icarus is a responsive and customizable theme for bloggers. It's a port of the same-named theme for [Hexo](//hexo.io) made by [Ruipeng Zhang](https://github.com/ppoffice). Noteworthy features of this Hugo theme are the integration of a comment-system powered by Disqus, localization (l10n) support, syntax highlighting for source code and optional widgets for the sidebar.
